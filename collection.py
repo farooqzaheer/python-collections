@@ -4,7 +4,7 @@
 #     print(x)
 
 #tuple
-# tuple = ("apple", "banana", "cherry")
+# tuple = ("apples", "banana", "cherry")
 # tuple[1] = "blackcurrant"
 # # The values will remain the same:
 # print(tuple)
